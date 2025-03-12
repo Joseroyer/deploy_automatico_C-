@@ -1,0 +1,7 @@
+C:\Users\Jrena\Desktop\AppDeploy\AppDeploy\obj\Release\net8.0\PubTmp\Out\AppDeploy.exe
+C:\Users\Jrena\Desktop\AppDeploy\AppDeploy\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Jrena\Desktop\AppDeploy\AppDeploy\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Jrena\Desktop\AppDeploy\AppDeploy\obj\Release\net8.0\PubTmp\Out\AppDeploy.dll
+C:\Users\Jrena\Desktop\AppDeploy\AppDeploy\obj\Release\net8.0\PubTmp\Out\AppDeploy.deps.json
+C:\Users\Jrena\Desktop\AppDeploy\AppDeploy\obj\Release\net8.0\PubTmp\Out\AppDeploy.runtimeconfig.json
+C:\Users\Jrena\Desktop\AppDeploy\AppDeploy\obj\Release\net8.0\PubTmp\Out\AppDeploy.pdb

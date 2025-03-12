@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jOQkyt9UjgmsKTc4f/+H00lEGu5jKJSPvYZs8mOMi9Q=",
+  "Source": "AppDeploy",
+  "BasePath": "_content/AppDeploy",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
